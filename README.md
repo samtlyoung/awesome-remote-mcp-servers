@@ -2076,6 +2076,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MiningBridge Intelligence](https://intel.miningbridge.in/connect) `https://intel.miningbridge.in/api/mcp`
   [![MiningBridge Intelligence MCP connector](https://glama.ai/mcp/connectors/in.miningbridge/intel/badges/score.svg)](https://glama.ai/mcp/connectors/in.miningbridge/intel)
   🔐 - Critical minerals and rare earths: supply risk, trade flows, export controls, counterparties and patent R&D.
+- [Modern CFO Cost Segregation Benchmark MCP](https://freecostseg.com/resources/cost-segregation-mcp/) `https://mcp.freecostseg.com/mcp`
+  🔓 - MACRS 5-year, 15-year, and 27.5/39-year cost segregation depreciation allocation bands across 45 commercial and residential property types.
 - [MoltNode by Chord](https://moltnode.ag) `https://moltnode.ag/mcp`
   [![MoltNode by Chord MCP connector](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord/badges/score.svg)](https://glama.ai/mcp/connectors/ag.moltnode/molt-node-by-chord)
   🔓 - Read 31 blockchains over JSON-RPC and get DEX swap quotes with unsigned transactions via Chord.
@@ -2289,7 +2291,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradeStar Insider](https://www.tradestarinsider.com) `https://mcp.tradestarinsider.com/mcp`
   [![TradeStar Insider MCP connector](https://glama.ai/mcp/connectors/com.tradestarinsider/edgar-insider-signals/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradestarinsider/edgar-insider-signals)
   🔓 - Verify insider-buy, 13D and 13F claims against SEC filings; every record links to its sec.gov source.
-- [TradesIndex Commercial Building Value MCP](https://tradesindex.org/mcp) `https://tradesindex.org/api/mcp`
+- [TradesIndex Commercial Building Value MCP](https://tradesindex.org/mcp/) `https://tradesindex.org/api/mcp`
   🔓 - US commercial property valuation, building systems replacement cost, and 19 skilled-trade wage and margin benchmarks.
 - [TradingAgentStack](https://tradingagentstack.com/mcp/) `https://tradingagentstack.com/api/mcp`
   [![TradingAgentStack MCP connector](https://glama.ai/mcp/connectors/io.github.intoApex/tradingagentstack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.intoApex/tradingagentstack)
